@@ -1,0 +1,1 @@
+# Mann-E bad word filteration list
